@@ -1,0 +1,33 @@
+body{
+background-color: chartreuse;
+padding: 10%;
+font-family: 'Ubuntu Mono', monospace;
+
+
+}
+.attels {
+    margin: auto;
+    width: 200px;
+   
+    display: inline-block;
+  }
+.attels2{
+position: absolute;
+left: 40%;
+top: 25%;
+}
+.attels3{
+
+float: left;
+}
+
+.attelss{
+    position: absolute;
+    left: 55%;
+top: 15%;
+}
+p {
+    text-align: justify;
+    font-size: large;
+  }
+    

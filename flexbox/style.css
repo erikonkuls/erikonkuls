@@ -1,0 +1,66 @@
+.body{
+    background-color: lightblue;
+}
+
+.conteiner{
+  flex-direction:row-reverse;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: baseline;
+}
+
+
+
+
+
+
+
+
+
+
+.kaste1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.kaste2 {
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+}
+.kaste3{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+.kaste4 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(119, 44, 94);
+}
+.kaste5 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(128, 130, 255);
+}
+.kaste6 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(230, 230, 230);
+}
+.kaste7 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(199, 43, 147);
+}
+.kaste8 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(18, 20, 133);
+}
+ .kaste9 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(126, 27, 27);
+}

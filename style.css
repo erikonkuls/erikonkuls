@@ -1,0 +1,117 @@
+body {
+  background-color: rgb(246, 255, 127);  
+font-family:cursive;
+}
+img {
+    width: 200px; height: 200;
+}
+p{
+    color: blue;
+}
+
+
+.rindkopas-krasa{
+    color: hotpink;
+background-color: rgb(198, 187, 207);
+}
+
+.centret-saturu {
+    width: 70%;
+    margin-left: 15%;
+    background-color: bisque;
+}
+
+.varda-fona-krasa {
+    background-color: brown;
+}
+
+.augseja-kaste {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 10px; 
+    padding: 20px;
+    border-style: solid;
+    display:inline-block
+}
+.videja-kaste {
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    border: 20px;
+    border-style: solid;
+    margin-left: 260px;
+    display:inline-block
+}
+.apakseja-kaste {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border: 10px;
+    border-style: solid;
+    margin-left: 500px;
+    display:inline-block
+}
+.augseja-kaste2 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(119, 44, 94);
+    border: 10px; 
+    padding: 20px;
+    border-style: solid;
+    display:inline-block;
+    position:relative;
+    left: 600px;
+}
+.videja-kaste2 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(128, 130, 255);
+    border: 20px;
+    border-style: solid;
+    display:inline-block;
+    position:relative;
+    left:90px;
+}
+.apakseja-kaste2 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(230, 230, 230);
+    border: 10px;
+    border-style: solid;
+    display:inline-block;
+    position:relative;
+    right:400px;
+
+
+}
+.augseja-kaste3 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(199, 43, 147);
+    border: 10px; 
+    padding: 20px;
+    border-style: solid;
+    position:absolute;
+    left: 600px;
+    
+}
+.videja-kaste3 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(18, 20, 133);
+    border: 20px;
+    border-style: solid;
+    position:absolute;
+    left:90px;}
+
+ .apakseja-kaste3 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(126, 27, 27);
+    border: 10px;
+    border-style: solid;
+    position:absolute;
+    right:400px;
+    
+}
